@@ -1,3 +1,5 @@
+Sean Clayton
+
 To compile program:
 gcc smallsh.c -g -o smallsh
 
